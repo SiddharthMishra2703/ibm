@@ -1,33 +1,43 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react';
 import axios from 'axios';
+import { Box, CircularProgress } from '@mui/material';
 
 
 export default function ArticleList() {
 
     const [articles, setArticles] = useState([]);
+    const [loading, setLoading] = useState(true);
 
     const getData = async () => {
         try {
 
             const res = await axios.get(process.env.API + '/articles');
 
-
             const data = await res.data;
             setArticles(data);
+            setLoading(false);
 
             if (!res.status === 200) {
                 const error = new Error(res.error);
                 throw error;
             }
         } catch (err) {
-            console.log(err);
+            console.log(err.response.data.error);
         }
     }
     useEffect(() => {
         getData();
     }, []);
+
+    if (loading) {
+        return (
+        <Box sx={{display:'flex', justifyContent:'center', height:'80vh', alignItems:'center'}}>
+            <CircularProgress />
+        </Box>
+        );
+    }
 
     return (
 

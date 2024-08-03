@@ -26,9 +26,9 @@ export default function Signup() {
       });
       console.log(data);
       // Redirect to dashboard or another page
-      navigate('/login');
+      navigate('/signin');
     } catch (error) {
-      setError(error.message);
+      setError(error.response.data.error);
     }
   };
 

@@ -4,7 +4,7 @@ import {Avatar, Button, TextField, Link, Grid, Box, Typography, Container, FormC
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import axios from 'axios';
 
-export default function Login() {
+export default function Login({onLogin}) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
@@ -18,11 +18,13 @@ export default function Login() {
         email: email,
         password: password
       });
+
+      onLogin(true);
       console.log('JWTtoken - ' + data.data.message);
       // Redirect to home
       navigate('/');
     } catch (error) {
-      setError(error.message);
+      setError(error.response.data.error);
     }
   };
 

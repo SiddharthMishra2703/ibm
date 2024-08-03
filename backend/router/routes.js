@@ -109,23 +109,4 @@ router.get("/products", async (req, res) => {
     
 });
 
-// // single article route
-// router.get("/article/:articleId", async (req, res) =>{
-//     const articleId = req.params.articleId;
-    
-//     if (!articleId) {
-//         return res.status(422).json({ error: "id not given" });
-//     }
-//     try{
-//         const article = await Article.findOne({_id: articleId});
-//         if(article){
-//             res.send(article);
-//         }else{
-//             return res.status(422).json({ error: "No blog found with this id" });
-//         }
-//     } catch (err) {
-//         console.log(err);
-//     }
-// });
-
 module.exports = router;

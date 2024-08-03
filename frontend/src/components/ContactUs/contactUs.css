@@ -1,0 +1,138 @@
+.pcontainer {
+    width: 100%;
+    /* max-width: 850px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
+}
+
+.contact-box {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.left {
+    background: linear-gradient(135deg, #1e90ff, #1c75d8);
+    border-radius: 15px 0 0 15px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.left-content {
+    text-align: center;
+}
+
+.left h3 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.left p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.social-icons {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.social-icons li a {
+    color: #fff;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.social-icons li a:hover {
+    color: #87cefa;
+}
+
+.right {
+    padding: 25px;
+}
+
+.heading {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    position: relative;
+}
+
+.heading::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 50px;
+    border-radius: 2px;
+    background-color: #1e90ff;
+}
+
+.field {
+    width: 100%;
+    border: 2px solid transparent;
+    outline: none;
+    background-color: rgba(230, 230, 230, 0.6);
+    padding: 0.75rem 1rem;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s, border 0.3s;
+}
+
+.field:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.field:focus {
+    border: 2px solid #1e55fa;
+    background-color: #fff;
+}
+
+textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.butn {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background-color: #1e90ff;
+    color: #fff;
+    font-size: 1.1rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.butn:hover {
+    background-color: #1c75d8;
+}
+
+@media screen and (max-width: 880px) {
+    .contact-box {
+        grid-template-columns: 1fr;
+    }
+    .left {
+        border-radius: 15px 15px 0 0;
+        height: auto;
+    }
+}

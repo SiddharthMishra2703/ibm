@@ -1,0 +1,38 @@
+.image{
+    height: 500px;
+}
+@media (max-width: 600px) {
+    .image{
+        height: 300px;
+    }
+    .fullwidth{
+        width: 100%;
+    }
+}
+
+@media (min-width: 600px){
+    .fullwidth{
+        width: 50%;
+    }
+}
+
+@media (max-width: 370px) {
+    .notVisible{
+        visibility: hidden;
+    }
+}
+
+.carousel-item img{
+    width: 10%;
+}
+
+.headline {
+    position: absolute;
+    left: 45%;
+    color: black;
+    font-weight: bold;
+}
+
+.s-img{
+    height: 10rem;
+}

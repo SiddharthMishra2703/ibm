@@ -2,7 +2,9 @@ import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
-export default function Navbar() {
+export default function Navbar({loggedIn}) {
+
+    
 
     return (
 
@@ -20,24 +22,26 @@ export default function Navbar() {
                         <li className="nav-item">
                             <Link className="nav-link" aria-current="page" to="/">Home</Link>
                         </li>
-                        <li className="nav-item">
+                        {loggedIn && <li className="nav-item">
                             <Link className="nav-link" aria-current="page" to="/contact">Contact Us</Link>
-                        </li>
+                        </li>}
                         <li className="nav-item">
                             <Link className="nav-link" to="/articles">Articles</Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link" to="/products">Products</Link>
                         </li>
-                        <li className="nav-item">
-                            <Link className="nav-link" to="/signin">Signin</Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link className="nav-link" to="/signup">Signup</Link>
-                        </li>
-                        <li className="nav-item">
+                        {!loggedIn && <>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/signin">Signin</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/signup">Signup</Link>
+                            </li>
+                        </>}
+                        {loggedIn && <li className="nav-item">
                             <Link className="nav-link" to="/logout">Logout</Link>
-                        </li>
+                        </li>}
                     </ul>
                 </div>
             </div>

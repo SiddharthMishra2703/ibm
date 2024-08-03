@@ -1,0 +1,2143 @@
+[
+  {
+    "Country and Area": "Unit",
+    "Forest Area, 1990": "1000 ha",
+    "Forest Area, 2000": "1000 ha",
+    "Forest Area, 2010": "1000 ha",
+    "Forest Area, 2015": "1000 ha",
+    "Forest Area, 2020": "1000 ha"
+  },
+  {
+    "Country and Area": "WORLD",
+    "Forest Area, 1990": 4236433.4224,
+    "Forest Area, 2000": 4158049.522207,
+    "Forest Area, 2010": 4106316.94403,
+    "Forest Area, 2015": "…",
+    "Forest Area, 2020": 4058930.81
+  },
+  {
+    "CountryID": 4,
+    "Country and Area": "Afghanistan",
+    "Forest Area, 1990": 1208.44,
+    "Forest Area, 2000": 1208.44,
+    "Forest Area, 2010": 1208.44,
+    "Forest Area, 2015": 1208.44,
+    "Forest Area, 2020": 1208.44
+  },
+  {
+    "CountryID": 8,
+    "Country and Area": "Albania",
+    "Forest Area, 1990": 788.8,
+    "Forest Area, 2000": 769.3,
+    "Forest Area, 2010": 782.07,
+    "Forest Area, 2015": 789.19,
+    "Forest Area, 2020": 788.9
+  },
+  {
+    "CountryID": 12,
+    "Country and Area": "Algeria",
+    "Forest Area, 1990": 1667,
+    "Forest Area, 2000": 1579,
+    "Forest Area, 2010": 1918,
+    "Forest Area, 2015": 1956,
+    "Forest Area, 2020": 1949
+  },
+  {
+    "CountryID": 16,
+    "Country and Area": "American Samoa",
+    "Forest Area, 1990": 18.07,
+    "Forest Area, 2000": 17.73,
+    "Forest Area, 2010": 17.43,
+    "Forest Area, 2015": 17.28,
+    "Forest Area, 2020": 17.13
+  },
+  {
+    "CountryID": 20,
+    "Country and Area": "Andorra",
+    "Forest Area, 1990": 16,
+    "Forest Area, 2000": 16,
+    "Forest Area, 2010": 16,
+    "Forest Area, 2015": 16,
+    "Forest Area, 2020": 16
+  },
+  {
+    "CountryID": 24,
+    "Country and Area": "Angola",
+    "Forest Area, 1990": 79262.78,
+    "Forest Area, 2000": 77708.61,
+    "Forest Area, 2010": 72158,
+    "Forest Area, 2015": 69382.69,
+    "Forest Area, 2020": 66607.38
+  },
+  {
+    "CountryID": 660,
+    "Country and Area": "Anguilla",
+    "Forest Area, 1990": 5.5,
+    "Forest Area, 2000": 5.5,
+    "Forest Area, 2010": 5.5,
+    "Forest Area, 2015": 5.5,
+    "Forest Area, 2020": 5.5
+  },
+  {
+    "CountryID": 28,
+    "Country and Area": "Antigua and Barbuda",
+    "Forest Area, 1990": 10.11,
+    "Forest Area, 2000": 9.45,
+    "Forest Area, 2010": 8.78,
+    "Forest Area, 2015": 8.45,
+    "Forest Area, 2020": 8.12
+  },
+  {
+    "CountryID": 32,
+    "Country and Area": "Argentina",
+    "Forest Area, 1990": 35204,
+    "Forest Area, 2000": 33378,
+    "Forest Area, 2010": 30214,
+    "Forest Area, 2015": 29097,
+    "Forest Area, 2020": 28573
+  },
+  {
+    "CountryID": 51,
+    "Country and Area": "Armenia",
+    "Forest Area, 1990": 334.73,
+    "Forest Area, 2000": 332.64,
+    "Forest Area, 2010": 330.56,
+    "Forest Area, 2015": 329.52,
+    "Forest Area, 2020": 328.47
+  },
+  {
+    "CountryID": 533,
+    "Country and Area": "Aruba",
+    "Forest Area, 1990": 0.42,
+    "Forest Area, 2000": 0.42,
+    "Forest Area, 2010": 0.42,
+    "Forest Area, 2015": 0.42,
+    "Forest Area, 2020": 0.42
+  },
+  {
+    "CountryID": 36,
+    "Country and Area": "Australia",
+    "Forest Area, 1990": 133882.2,
+    "Forest Area, 2000": 131814.1,
+    "Forest Area, 2010": 129546.1,
+    "Forest Area, 2015": 133094.5,
+    "Forest Area, 2020": 134005.1
+  },
+  {
+    "CountryID": 40,
+    "Country and Area": "Austria",
+    "Forest Area, 1990": 3775.67,
+    "Forest Area, 2000": 3838.14,
+    "Forest Area, 2010": 3863.2,
+    "Forest Area, 2015": 3881.19,
+    "Forest Area, 2020": 3899.15
+  },
+  {
+    "CountryID": 31,
+    "Country and Area": "Azerbaijan",
+    "Forest Area, 1990": 944.74,
+    "Forest Area, 2000": 987.22,
+    "Forest Area, 2010": 1032.49,
+    "Forest Area, 2015": 1077.89,
+    "Forest Area, 2020": 1131.77
+  },
+  {
+    "CountryID": 44,
+    "Country and Area": "Bahamas",
+    "Forest Area, 1990": 509.86,
+    "Forest Area, 2000": 509.86,
+    "Forest Area, 2010": 509.86,
+    "Forest Area, 2015": 509.86,
+    "Forest Area, 2020": 509.86
+  },
+  {
+    "CountryID": 48,
+    "Country and Area": "Bahrain",
+    "Forest Area, 1990": 0.22,
+    "Forest Area, 2000": 0.37,
+    "Forest Area, 2010": 0.52,
+    "Forest Area, 2015": 0.6,
+    "Forest Area, 2020": 0.7
+  },
+  {
+    "CountryID": 50,
+    "Country and Area": "Bangladesh",
+    "Forest Area, 1990": 1920.33,
+    "Forest Area, 2000": 1920.33,
+    "Forest Area, 2010": 1888.34,
+    "Forest Area, 2015": 1883.4,
+    "Forest Area, 2020": 1883.4
+  },
+  {
+    "CountryID": 52,
+    "Country and Area": "Barbados",
+    "Forest Area, 1990": 6.3,
+    "Forest Area, 2000": 6.3,
+    "Forest Area, 2010": 6.3,
+    "Forest Area, 2015": 6.3,
+    "Forest Area, 2020": 6.3
+  },
+  {
+    "CountryID": 112,
+    "Country and Area": "Belarus",
+    "Forest Area, 1990": 7780,
+    "Forest Area, 2000": 8273,
+    "Forest Area, 2010": 8630,
+    "Forest Area, 2015": 8633.5,
+    "Forest Area, 2020": 8767.6
+  },
+  {
+    "CountryID": 56,
+    "Country and Area": "Belgium",
+    "Forest Area, 1990": 677.4,
+    "Forest Area, 2000": 667.3,
+    "Forest Area, 2010": 689.87,
+    "Forest Area, 2015": 689.3,
+    "Forest Area, 2020": 689.3
+  },
+  {
+    "CountryID": 84,
+    "Country and Area": "Belize",
+    "Forest Area, 1990": 1600.03,
+    "Forest Area, 2000": 1459.3,
+    "Forest Area, 2010": 1391.39,
+    "Forest Area, 2015": 1332.83,
+    "Forest Area, 2020": 1277.05
+  },
+  {
+    "CountryID": 204,
+    "Country and Area": "Benin",
+    "Forest Area, 1990": 4835.15,
+    "Forest Area, 2000": 4135.15,
+    "Forest Area, 2010": 3635.15,
+    "Forest Area, 2015": 3385.15,
+    "Forest Area, 2020": 3135.15
+  },
+  {
+    "CountryID": 60,
+    "Country and Area": "Bermuda",
+    "Forest Area, 1990": 1,
+    "Forest Area, 2000": 1,
+    "Forest Area, 2010": 1,
+    "Forest Area, 2015": 1,
+    "Forest Area, 2020": 1
+  },
+  {
+    "CountryID": 64,
+    "Country and Area": "Bhutan",
+    "Forest Area, 1990": 2506.72,
+    "Forest Area, 2000": 2606,
+    "Forest Area, 2010": 2705.29,
+    "Forest Area, 2015": 2715.18,
+    "Forest Area, 2020": 2725.08
+  },
+  {
+    "CountryID": 68,
+    "Country and Area": "Bolivia (Plurinational State of)",
+    "Forest Area, 1990": 57804.72,
+    "Forest Area, 2000": 55101.39,
+    "Forest Area, 2010": 53086.01,
+    "Forest Area, 2015": 52027.22,
+    "Forest Area, 2020": 50833.76
+  },
+  {
+    "CountryID": 535,
+    "Country and Area": "Bonaire, Sint Eustatius and Saba",
+    "Forest Area, 1990": 1.91,
+    "Forest Area, 2000": 1.91,
+    "Forest Area, 2010": 1.91,
+    "Forest Area, 2015": 1.91,
+    "Forest Area, 2020": 1.91
+  },
+  {
+    "CountryID": 70,
+    "Country and Area": "Bosnia and Herzegovina",
+    "Forest Area, 1990": 2210,
+    "Forest Area, 2000": 2111.65,
+    "Forest Area, 2010": 2102.66,
+    "Forest Area, 2015": 2160.5,
+    "Forest Area, 2020": 2187.91
+  },
+  {
+    "CountryID": 72,
+    "Country and Area": "Botswana",
+    "Forest Area, 1990": 18803.7,
+    "Forest Area, 2000": 17620.7,
+    "Forest Area, 2010": 16437.7,
+    "Forest Area, 2015": 15846.2,
+    "Forest Area, 2020": 15254.7
+  },
+  {
+    "CountryID": 76,
+    "Country and Area": "Brazil",
+    "Forest Area, 1990": 588898,
+    "Forest Area, 2000": 551088.6,
+    "Forest Area, 2010": 511580.7,
+    "Forest Area, 2015": 503884.8,
+    "Forest Area, 2020": 496619.6
+  },
+  {
+    "CountryID": 92,
+    "Country and Area": "British Virgin Islands",
+    "Forest Area, 1990": 3.71,
+    "Forest Area, 2000": 3.67,
+    "Forest Area, 2010": 3.64,
+    "Forest Area, 2015": 3.62,
+    "Forest Area, 2020": 3.62
+  },
+  {
+    "CountryID": 96,
+    "Country and Area": "Brunei Darussalam",
+    "Forest Area, 1990": 413,
+    "Forest Area, 2000": 397,
+    "Forest Area, 2010": 380,
+    "Forest Area, 2015": 380,
+    "Forest Area, 2020": 380
+  },
+  {
+    "CountryID": 100,
+    "Country and Area": "Bulgaria",
+    "Forest Area, 1990": 3327,
+    "Forest Area, 2000": 3375,
+    "Forest Area, 2010": 3737,
+    "Forest Area, 2015": 3833,
+    "Forest Area, 2020": 3893
+  },
+  {
+    "CountryID": 854,
+    "Country and Area": "Burkina Faso",
+    "Forest Area, 1990": 7716.6,
+    "Forest Area, 2000": 7216.5,
+    "Forest Area, 2010": 6716.5,
+    "Forest Area, 2015": 6466.4,
+    "Forest Area, 2020": 6216.4
+  },
+  {
+    "CountryID": 108,
+    "Country and Area": "Burundi",
+    "Forest Area, 1990": 276.48,
+    "Forest Area, 2000": 193.94,
+    "Forest Area, 2010": 193.94,
+    "Forest Area, 2015": 279.64,
+    "Forest Area, 2020": 279.64
+  },
+  {
+    "CountryID": 132,
+    "Country and Area": "Cabo Verde",
+    "Forest Area, 1990": 15.38,
+    "Forest Area, 2000": 39.72,
+    "Forest Area, 2010": 42.72,
+    "Forest Area, 2015": 44.22,
+    "Forest Area, 2020": 45.72
+  },
+  {
+    "CountryID": 116,
+    "Country and Area": "Cambodia",
+    "Forest Area, 1990": 11004.79,
+    "Forest Area, 2000": 10781,
+    "Forest Area, 2010": 10589.23,
+    "Forest Area, 2015": 8846.82,
+    "Forest Area, 2020": 8068.37
+  },
+  {
+    "CountryID": 120,
+    "Country and Area": "Cameroon",
+    "Forest Area, 1990": 22500,
+    "Forest Area, 2000": 21597.49,
+    "Forest Area, 2010": 20900.48,
+    "Forest Area, 2015": 20620.48,
+    "Forest Area, 2020": 20340.48
+  },
+  {
+    "CountryID": 124,
+    "Country and Area": "Canada",
+    "Forest Area, 1990": 348272.93,
+    "Forest Area, 2000": 347801.97,
+    "Forest Area, 2010": 347322.21,
+    "Forest Area, 2015": 347115.71,
+    "Forest Area, 2020": 346928.1
+  },
+  {
+    "CountryID": 136,
+    "Country and Area": "Cayman Islands",
+    "Forest Area, 1990": 13.13,
+    "Forest Area, 2000": 12.93,
+    "Forest Area, 2010": 12.72,
+    "Forest Area, 2015": 12.72,
+    "Forest Area, 2020": 12.72
+  },
+  {
+    "CountryID": 140,
+    "Country and Area": "Central African Republic",
+    "Forest Area, 1990": 23203,
+    "Forest Area, 2000": 22903,
+    "Forest Area, 2010": 22603,
+    "Forest Area, 2015": 22453,
+    "Forest Area, 2020": 22303
+  },
+  {
+    "CountryID": 148,
+    "Country and Area": "Chad",
+    "Forest Area, 1990": 6730,
+    "Forest Area, 2000": 6353,
+    "Forest Area, 2010": 5530,
+    "Forest Area, 2015": 4890,
+    "Forest Area, 2020": 4313
+  },
+  {
+    "CountryID": 152,
+    "Country and Area": "Chile",
+    "Forest Area, 1990": 15246.05,
+    "Forest Area, 2000": 15817.06,
+    "Forest Area, 2010": 16725.26,
+    "Forest Area, 2015": 17596.08,
+    "Forest Area, 2020": 18210.7
+  },
+  {
+    "CountryID": 156,
+    "Country and Area": "China",
+    "Forest Area, 1990": 157140.59,
+    "Forest Area, 2000": 177000.55,
+    "Forest Area, 2010": 200610.38,
+    "Forest Area, 2015": 210294.25,
+    "Forest Area, 2020": 219978.18
+  },
+  {
+    "CountryID": 170,
+    "Country and Area": "Colombia",
+    "Forest Area, 1990": 64958.14,
+    "Forest Area, 2000": 62735.5,
+    "Forest Area, 2010": 60807.79,
+    "Forest Area, 2015": 60134.66,
+    "Forest Area, 2020": 59141.91
+  },
+  {
+    "CountryID": 174,
+    "Country and Area": "Comoros",
+    "Forest Area, 1990": 46.06,
+    "Forest Area, 2000": 41.68,
+    "Forest Area, 2010": 37.3,
+    "Forest Area, 2015": 35.11,
+    "Forest Area, 2020": 32.92
+  },
+  {
+    "CountryID": 178,
+    "Country and Area": "Congo",
+    "Forest Area, 1990": 22315,
+    "Forest Area, 2000": 22195,
+    "Forest Area, 2010": 22075,
+    "Forest Area, 2015": 22015,
+    "Forest Area, 2020": 21946
+  },
+  {
+    "CountryID": 184,
+    "Country and Area": "Cook Islands",
+    "Forest Area, 1990": 14.91,
+    "Forest Area, 2000": 15.57,
+    "Forest Area, 2010": 15.59,
+    "Forest Area, 2015": 15.59,
+    "Forest Area, 2020": 15.59
+  },
+  {
+    "CountryID": 188,
+    "Country and Area": "Costa Rica",
+    "Forest Area, 1990": 2907.4,
+    "Forest Area, 2000": 2857.22,
+    "Forest Area, 2010": 2871.2,
+    "Forest Area, 2015": 2953.03,
+    "Forest Area, 2020": 3034.87
+  },
+  {
+    "CountryID": 384,
+    "Country and Area": "Côte d’Ivoire",
+    "Forest Area, 1990": 7850.86,
+    "Forest Area, 2000": 5094.45,
+    "Forest Area, 2010": 3965.58,
+    "Forest Area, 2015": 3401.15,
+    "Forest Area, 2020": 2836.71
+  },
+  {
+    "CountryID": 191,
+    "Country and Area": "Croatia",
+    "Forest Area, 1990": 1850,
+    "Forest Area, 2000": 1885,
+    "Forest Area, 2010": 1920,
+    "Forest Area, 2015": 1922,
+    "Forest Area, 2020": 1939.11
+  },
+  {
+    "CountryID": 192,
+    "Country and Area": "Cuba",
+    "Forest Area, 1990": 2058,
+    "Forest Area, 2000": 2435,
+    "Forest Area, 2010": 2932,
+    "Forest Area, 2015": 3184,
+    "Forest Area, 2020": 3242
+  },
+  {
+    "CountryID": 531,
+    "Country and Area": "Curaçao",
+    "Forest Area, 1990": 0.07,
+    "Forest Area, 2000": 0.07,
+    "Forest Area, 2010": 0.07,
+    "Forest Area, 2015": 0.07,
+    "Forest Area, 2020": 0.07
+  },
+  {
+    "CountryID": 196,
+    "Country and Area": "Cyprus",
+    "Forest Area, 1990": 161.11,
+    "Forest Area, 2000": 171.61,
+    "Forest Area, 2010": 172.84,
+    "Forest Area, 2015": 172.71,
+    "Forest Area, 2020": 172.53
+  },
+  {
+    "CountryID": 203,
+    "Country and Area": "Czechia",
+    "Forest Area, 1990": 2629.42,
+    "Forest Area, 2000": 2637.29,
+    "Forest Area, 2010": 2657.38,
+    "Forest Area, 2015": 2668.39,
+    "Forest Area, 2020": 2677.09
+  },
+  {
+    "CountryID": 408,
+    "Country and Area": "Democratic People's Republic of Korea",
+    "Forest Area, 1990": 6912.03,
+    "Forest Area, 2000": 6454.69,
+    "Forest Area, 2010": 6242.39,
+    "Forest Area, 2015": 6136.24,
+    "Forest Area, 2020": 6030.09
+  },
+  {
+    "CountryID": 180,
+    "Country and Area": "Democratic Republic of the Congo",
+    "Forest Area, 1990": 150629,
+    "Forest Area, 2000": 143899,
+    "Forest Area, 2010": 137169,
+    "Forest Area, 2015": 131662.12,
+    "Forest Area, 2020": 126155.24
+  },
+  {
+    "CountryID": 208,
+    "Country and Area": "Denmark",
+    "Forest Area, 1990": 531.44,
+    "Forest Area, 2000": 571.6,
+    "Forest Area, 2010": 586.49,
+    "Forest Area, 2015": 624.68,
+    "Forest Area, 2020": 628.44
+  },
+  {
+    "CountryID": 262,
+    "Country and Area": "Djibouti",
+    "Forest Area, 1990": 5.6,
+    "Forest Area, 2000": 5.6,
+    "Forest Area, 2010": 5.6,
+    "Forest Area, 2015": 5.6,
+    "Forest Area, 2020": 5.8
+  },
+  {
+    "CountryID": 212,
+    "Country and Area": "Dominica",
+    "Forest Area, 1990": 50.31,
+    "Forest Area, 2000": 47.87,
+    "Forest Area, 2010": 47.87,
+    "Forest Area, 2015": 47.87,
+    "Forest Area, 2020": 47.87
+  },
+  {
+    "CountryID": 214,
+    "Country and Area": "Dominican Republic",
+    "Forest Area, 1990": 1594.89,
+    "Forest Area, 2000": 1972.47,
+    "Forest Area, 2010": 2073.12,
+    "Forest Area, 2015": 2103.65,
+    "Forest Area, 2020": 2144.1
+  },
+  {
+    "CountryID": 218,
+    "Country and Area": "Ecuador",
+    "Forest Area, 1990": 14632.21,
+    "Forest Area, 2000": 13730.5,
+    "Forest Area, 2010": 13028.19,
+    "Forest Area, 2015": 12819.18,
+    "Forest Area, 2020": 12497.83
+  },
+  {
+    "CountryID": 818,
+    "Country and Area": "Egypt",
+    "Forest Area, 1990": 43.81,
+    "Forest Area, 2000": 59.21,
+    "Forest Area, 2010": 65.64,
+    "Forest Area, 2015": 48.42,
+    "Forest Area, 2020": 44.98
+  },
+  {
+    "CountryID": 222,
+    "Country and Area": "El Salvador",
+    "Forest Area, 1990": 718.88,
+    "Forest Area, 2000": 673.88,
+    "Forest Area, 2010": 628.88,
+    "Forest Area, 2015": 606.38,
+    "Forest Area, 2020": 583.88
+  },
+  {
+    "CountryID": 226,
+    "Country and Area": "Equatorial Guinea",
+    "Forest Area, 1990": 2699.15,
+    "Forest Area, 2000": 2615.58,
+    "Forest Area, 2010": 2532.01,
+    "Forest Area, 2015": 2490.22,
+    "Forest Area, 2020": 2448.42
+  },
+  {
+    "CountryID": 232,
+    "Country and Area": "Eritrea",
+    "Forest Area, 1990": 1150.06,
+    "Forest Area, 2000": 1118.46,
+    "Forest Area, 2010": 1086.86,
+    "Forest Area, 2015": 1071.06,
+    "Forest Area, 2020": 1055.26
+  },
+  {
+    "CountryID": 233,
+    "Country and Area": "Estonia",
+    "Forest Area, 1990": 2205.9,
+    "Forest Area, 2000": 2238.89,
+    "Forest Area, 2010": 2336.02,
+    "Forest Area, 2015": 2421.01,
+    "Forest Area, 2020": 2438.4
+  },
+  {
+    "CountryID": 748,
+    "Country and Area": "Eswatini",
+    "Forest Area, 1990": 461.14,
+    "Forest Area, 2000": 473.28,
+    "Forest Area, 2010": 485.43,
+    "Forest Area, 2015": 491.5,
+    "Forest Area, 2020": 497.56
+  },
+  {
+    "CountryID": 231,
+    "Country and Area": "Ethiopia",
+    "Forest Area, 1990": 19258.5,
+    "Forest Area, 2000": 18528.5,
+    "Forest Area, 2010": 17798.5,
+    "Forest Area, 2015": 17433.5,
+    "Forest Area, 2020": 17068.5
+  },
+  {
+    "CountryID": 234,
+    "Country and Area": "Faeroe Islands",
+    "Forest Area, 1990": 0.08,
+    "Forest Area, 2000": 0.08,
+    "Forest Area, 2010": 0.08,
+    "Forest Area, 2015": 0.08,
+    "Forest Area, 2020": 0.08
+  },
+  {
+    "CountryID": 238,
+    "Country and Area": "Falkland Islands (Malvinas)",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 242,
+    "Country and Area": "Fiji",
+    "Forest Area, 1990": 939.69,
+    "Forest Area, 2000": 1006.47,
+    "Forest Area, 2010": 1073.24,
+    "Forest Area, 2015": 1106.62,
+    "Forest Area, 2020": 1140.02
+  },
+  {
+    "CountryID": 246,
+    "Country and Area": "Finland",
+    "Forest Area, 1990": 21875.33,
+    "Forest Area, 2000": 22445.64,
+    "Forest Area, 2010": 22242,
+    "Forest Area, 2015": 22409,
+    "Forest Area, 2020": 22409
+  },
+  {
+    "CountryID": 250,
+    "Country and Area": "France",
+    "Forest Area, 1990": 14436,
+    "Forest Area, 2000": 15288,
+    "Forest Area, 2010": 16419,
+    "Forest Area, 2015": 16836,
+    "Forest Area, 2020": 17253
+  },
+  {
+    "CountryID": 254,
+    "Country and Area": "French Guiana",
+    "Forest Area, 1990": 8125,
+    "Forest Area, 2000": 8079.44,
+    "Forest Area, 2010": 8036.5,
+    "Forest Area, 2015": 8020,
+    "Forest Area, 2020": 8002.85
+  },
+  {
+    "CountryID": 258,
+    "Country and Area": "French Polynesia",
+    "Forest Area, 1990": 144.43,
+    "Forest Area, 2000": 148.55,
+    "Forest Area, 2010": 149.46,
+    "Forest Area, 2015": 149.46,
+    "Forest Area, 2020": 149.46
+  },
+  {
+    "CountryID": 266,
+    "Country and Area": "Gabon",
+    "Forest Area, 1990": 23761.62,
+    "Forest Area, 2000": 23700,
+    "Forest Area, 2010": 23649.41,
+    "Forest Area, 2015": 23590,
+    "Forest Area, 2020": 23530.6
+  },
+  {
+    "CountryID": 270,
+    "Country and Area": "Gambia",
+    "Forest Area, 1990": 414.66,
+    "Forest Area, 2000": 357.33,
+    "Forest Area, 2010": 300,
+    "Forest Area, 2015": 271.34,
+    "Forest Area, 2020": 242.67
+  },
+  {
+    "CountryID": 268,
+    "Country and Area": "Georgia",
+    "Forest Area, 1990": 2752.3,
+    "Forest Area, 2000": 2760.6,
+    "Forest Area, 2010": 2822.4,
+    "Forest Area, 2015": 2822.4,
+    "Forest Area, 2020": 2822.4
+  },
+  {
+    "CountryID": 276,
+    "Country and Area": "Germany",
+    "Forest Area, 1990": 11300,
+    "Forest Area, 2000": 11354,
+    "Forest Area, 2010": 11409,
+    "Forest Area, 2015": 11419,
+    "Forest Area, 2020": 11419
+  },
+  {
+    "CountryID": 288,
+    "Country and Area": "Ghana",
+    "Forest Area, 1990": 9924.26,
+    "Forest Area, 2000": 8848.61,
+    "Forest Area, 2010": 7942.93,
+    "Forest Area, 2015": 7880.44,
+    "Forest Area, 2020": 7985.71
+  },
+  {
+    "CountryID": 292,
+    "Country and Area": "Gibraltar",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 300,
+    "Country and Area": "Greece",
+    "Forest Area, 1990": 3298.55,
+    "Forest Area, 2000": 3600.23,
+    "Forest Area, 2010": 3901.8,
+    "Forest Area, 2015": 3901.8,
+    "Forest Area, 2020": 3901.8
+  },
+  {
+    "CountryID": 304,
+    "Country and Area": "Greenland",
+    "Forest Area, 1990": 0.22,
+    "Forest Area, 2000": 0.22,
+    "Forest Area, 2010": 0.22,
+    "Forest Area, 2015": 0.22,
+    "Forest Area, 2020": 0.22
+  },
+  {
+    "CountryID": 308,
+    "Country and Area": "Grenada",
+    "Forest Area, 1990": 17.7,
+    "Forest Area, 2000": 17.7,
+    "Forest Area, 2010": 17.7,
+    "Forest Area, 2015": 17.7,
+    "Forest Area, 2020": 17.7
+  },
+  {
+    "CountryID": 312,
+    "Country and Area": "Guadeloupe",
+    "Forest Area, 1990": 73.17,
+    "Forest Area, 2000": 72.27,
+    "Forest Area, 2010": 71.55,
+    "Forest Area, 2015": 72.22,
+    "Forest Area, 2020": 71.92
+  },
+  {
+    "CountryID": 316,
+    "Country and Area": "Guam",
+    "Forest Area, 1990": 24,
+    "Forest Area, 2000": 24,
+    "Forest Area, 2010": 24,
+    "Forest Area, 2015": 25,
+    "Forest Area, 2020": 28
+  },
+  {
+    "CountryID": 320,
+    "Country and Area": "Guatemala",
+    "Forest Area, 1990": 4781.2,
+    "Forest Area, 2000": 4209.2,
+    "Forest Area, 2010": 3722.6,
+    "Forest Area, 2015": 3585.8,
+    "Forest Area, 2020": 3527.8
+  },
+  {
+    "CountryID": 831,
+    "Country and Area": "Guernsey",
+    "Forest Area, 1990": 0.23,
+    "Forest Area, 2000": 0.23,
+    "Forest Area, 2010": 0.42,
+    "Forest Area, 2015": 0.42,
+    "Forest Area, 2020": 0.42
+  },
+  {
+    "CountryID": 324,
+    "Country and Area": "Guinea",
+    "Forest Area, 1990": 7276,
+    "Forest Area, 2000": 6929,
+    "Forest Area, 2010": 6569,
+    "Forest Area, 2015": 6389,
+    "Forest Area, 2020": 6189
+  },
+  {
+    "CountryID": 624,
+    "Country and Area": "Guinea-Bissau",
+    "Forest Area, 1990": 2233.33,
+    "Forest Area, 2000": 2148.88,
+    "Forest Area, 2010": 2064.43,
+    "Forest Area, 2015": 2022.21,
+    "Forest Area, 2020": 1980.01
+  },
+  {
+    "CountryID": 328,
+    "Country and Area": "Guyana",
+    "Forest Area, 1990": 18602.15,
+    "Forest Area, 2000": 18564.22,
+    "Forest Area, 2010": 18519.81,
+    "Forest Area, 2015": 18461.36,
+    "Forest Area, 2020": 18415.34
+  },
+  {
+    "CountryID": 332,
+    "Country and Area": "Haiti",
+    "Forest Area, 1990": 382.92,
+    "Forest Area, 2000": 380.65,
+    "Forest Area, 2010": 378.38,
+    "Forest Area, 2015": 362.85,
+    "Forest Area, 2020": 347.3
+  },
+  {
+    "CountryID": 336,
+    "Country and Area": "Holy See",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 340,
+    "Country and Area": "Honduras",
+    "Forest Area, 1990": 6987.78,
+    "Forest Area, 2000": 6778.27,
+    "Forest Area, 2010": 6575.47,
+    "Forest Area, 2015": 6463.83,
+    "Forest Area, 2020": 6359.26
+  },
+  {
+    "CountryID": 348,
+    "Country and Area": "Hungary",
+    "Forest Area, 1990": 1813.9,
+    "Forest Area, 2000": 1921.17,
+    "Forest Area, 2010": 2046.39,
+    "Forest Area, 2015": 2060.82,
+    "Forest Area, 2020": 2053.01
+  },
+  {
+    "CountryID": 352,
+    "Country and Area": "Iceland",
+    "Forest Area, 1990": 17.07,
+    "Forest Area, 2000": 29.83,
+    "Forest Area, 2010": 44.67,
+    "Forest Area, 2015": 48.16,
+    "Forest Area, 2020": 51.35
+  },
+  {
+    "CountryID": 356,
+    "Country and Area": "India",
+    "Forest Area, 1990": 63938,
+    "Forest Area, 2000": 67591,
+    "Forest Area, 2010": 69496,
+    "Forest Area, 2015": 70828,
+    "Forest Area, 2020": 72160
+  },
+  {
+    "CountryID": 360,
+    "Country and Area": "Indonesia",
+    "Forest Area, 1990": 118545,
+    "Forest Area, 2000": 101280,
+    "Forest Area, 2010": 99659.2,
+    "Forest Area, 2015": 95027.9,
+    "Forest Area, 2020": 92133.2
+  },
+  {
+    "CountryID": 364,
+    "Country and Area": "Iran (Islamic Republic of)",
+    "Forest Area, 1990": 9076.06,
+    "Forest Area, 2000": 9325.66,
+    "Forest Area, 2010": 10691.98,
+    "Forest Area, 2015": 10691.98,
+    "Forest Area, 2020": 10751.87
+  },
+  {
+    "CountryID": 368,
+    "Country and Area": "Iraq",
+    "Forest Area, 1990": 804,
+    "Forest Area, 2000": 818,
+    "Forest Area, 2010": 825,
+    "Forest Area, 2015": 825,
+    "Forest Area, 2020": 825
+  },
+  {
+    "CountryID": 372,
+    "Country and Area": "Ireland",
+    "Forest Area, 1990": 461.64,
+    "Forest Area, 2000": 630.36,
+    "Forest Area, 2010": 720.38,
+    "Forest Area, 2015": 754.67,
+    "Forest Area, 2020": 782.02
+  },
+  {
+    "CountryID": 833,
+    "Country and Area": "Isle of Man",
+    "Forest Area, 1990": 3.46,
+    "Forest Area, 2000": 3.46,
+    "Forest Area, 2010": 3.46,
+    "Forest Area, 2015": 3.46,
+    "Forest Area, 2020": 3.46
+  },
+  {
+    "CountryID": 376,
+    "Country and Area": "Israel",
+    "Forest Area, 1990": 132,
+    "Forest Area, 2000": 153,
+    "Forest Area, 2010": 154,
+    "Forest Area, 2015": 165,
+    "Forest Area, 2020": 140
+  },
+  {
+    "CountryID": 380,
+    "Country and Area": "Italy",
+    "Forest Area, 1990": 7589.75,
+    "Forest Area, 2000": 8369.25,
+    "Forest Area, 2010": 9028.04,
+    "Forest Area, 2015": 9297.08,
+    "Forest Area, 2020": 9566.13
+  },
+  {
+    "CountryID": 388,
+    "Country and Area": "Jamaica",
+    "Forest Area, 1990": 521.28,
+    "Forest Area, 2000": 521,
+    "Forest Area, 2010": 558.45,
+    "Forest Area, 2015": 577.46,
+    "Forest Area, 2020": 596.89
+  },
+  {
+    "CountryID": 392,
+    "Country and Area": "Japan",
+    "Forest Area, 1990": 24950,
+    "Forest Area, 2000": 24876,
+    "Forest Area, 2010": 24966,
+    "Forest Area, 2015": 24944,
+    "Forest Area, 2020": 24935
+  },
+  {
+    "CountryID": 832,
+    "Country and Area": "Jersey",
+    "Forest Area, 1990": 0.6,
+    "Forest Area, 2000": 0.6,
+    "Forest Area, 2010": 0.6,
+    "Forest Area, 2015": 0.6,
+    "Forest Area, 2020": 0.6
+  },
+  {
+    "CountryID": 400,
+    "Country and Area": "Jordan",
+    "Forest Area, 1990": 97.5,
+    "Forest Area, 2000": 97.5,
+    "Forest Area, 2010": 97.5,
+    "Forest Area, 2015": 97.5,
+    "Forest Area, 2020": 97.5
+  },
+  {
+    "CountryID": 398,
+    "Country and Area": "Kazakhstan",
+    "Forest Area, 1990": 3162.24,
+    "Forest Area, 2000": 3156.93,
+    "Forest Area, 2010": 3082.18,
+    "Forest Area, 2015": 3308.46,
+    "Forest Area, 2020": 3454.68
+  },
+  {
+    "CountryID": 404,
+    "Country and Area": "Kenya",
+    "Forest Area, 1990": 3858.54,
+    "Forest Area, 2000": 3961.19,
+    "Forest Area, 2010": 3616.34,
+    "Forest Area, 2015": 3522.41,
+    "Forest Area, 2020": 3611.09
+  },
+  {
+    "CountryID": 296,
+    "Country and Area": "Kiribati",
+    "Forest Area, 1990": 1.18,
+    "Forest Area, 2000": 1.18,
+    "Forest Area, 2010": 1.18,
+    "Forest Area, 2015": 1.18,
+    "Forest Area, 2020": 1.18
+  },
+  {
+    "CountryID": 414,
+    "Country and Area": "Kuwait",
+    "Forest Area, 1990": 3.45,
+    "Forest Area, 2000": 4.85,
+    "Forest Area, 2010": 6.25,
+    "Forest Area, 2015": 6.25,
+    "Forest Area, 2020": 6.25
+  },
+  {
+    "CountryID": 417,
+    "Country and Area": "Kyrgyzstan",
+    "Forest Area, 1990": 1136.42,
+    "Forest Area, 2000": 1180.9,
+    "Forest Area, 2010": 1229.68,
+    "Forest Area, 2015": 1251.81,
+    "Forest Area, 2020": 1315.38
+  },
+  {
+    "CountryID": 418,
+    "Country and Area": "Lao People's Democratic Republic",
+    "Forest Area, 1990": 17843,
+    "Forest Area, 2000": 17425,
+    "Forest Area, 2010": 16940.5,
+    "Forest Area, 2015": 16768,
+    "Forest Area, 2020": 16595.5
+  },
+  {
+    "CountryID": 428,
+    "Country and Area": "Latvia",
+    "Forest Area, 1990": 3173,
+    "Forest Area, 2000": 3241,
+    "Forest Area, 2010": 3372.12,
+    "Forest Area, 2015": 3391.44,
+    "Forest Area, 2020": 3410.79
+  },
+  {
+    "CountryID": 422,
+    "Country and Area": "Lebanon",
+    "Forest Area, 1990": 139.7,
+    "Forest Area, 2000": 138.18,
+    "Forest Area, 2010": 137.35,
+    "Forest Area, 2015": 140.33,
+    "Forest Area, 2020": 143.33
+  },
+  {
+    "CountryID": 426,
+    "Country and Area": "Lesotho",
+    "Forest Area, 1990": 34.52,
+    "Forest Area, 2000": 34.52,
+    "Forest Area, 2010": 34.52,
+    "Forest Area, 2015": 34.52,
+    "Forest Area, 2020": 34.52
+  },
+  {
+    "CountryID": 430,
+    "Country and Area": "Liberia",
+    "Forest Area, 1990": 8525.24,
+    "Forest Area, 2000": 8222.64,
+    "Forest Area, 2010": 7920.04,
+    "Forest Area, 2015": 7768.74,
+    "Forest Area, 2020": 7617.44
+  },
+  {
+    "CountryID": 434,
+    "Country and Area": "Libya",
+    "Forest Area, 1990": 217,
+    "Forest Area, 2000": 217,
+    "Forest Area, 2010": 217,
+    "Forest Area, 2015": 217,
+    "Forest Area, 2020": 217
+  },
+  {
+    "CountryID": 438,
+    "Country and Area": "Liechtenstein",
+    "Forest Area, 1990": 6.5,
+    "Forest Area, 2000": 6.7,
+    "Forest Area, 2010": 6.7,
+    "Forest Area, 2015": 6.7,
+    "Forest Area, 2020": 6.7
+  },
+  {
+    "CountryID": 440,
+    "Country and Area": "Lithuania",
+    "Forest Area, 1990": 1945,
+    "Forest Area, 2000": 2020,
+    "Forest Area, 2010": 2170,
+    "Forest Area, 2015": 2187,
+    "Forest Area, 2020": 2201
+  },
+  {
+    "CountryID": 442,
+    "Country and Area": "Luxembourg",
+    "Forest Area, 1990": 85.8,
+    "Forest Area, 2000": 86.7,
+    "Forest Area, 2010": 88.7,
+    "Forest Area, 2015": 88.7,
+    "Forest Area, 2020": 88.7
+  },
+  {
+    "CountryID": 450,
+    "Country and Area": "Madagascar",
+    "Forest Area, 1990": 13693.45,
+    "Forest Area, 2000": 13030.67,
+    "Forest Area, 2010": 12561.98,
+    "Forest Area, 2015": 12495.89,
+    "Forest Area, 2020": 12429.81
+  },
+  {
+    "CountryID": 454,
+    "Country and Area": "Malawi",
+    "Forest Area, 1990": 3501.7,
+    "Forest Area, 2000": 3081.7,
+    "Forest Area, 2010": 2661.7,
+    "Forest Area, 2015": 2451.7,
+    "Forest Area, 2020": 2241.7
+  },
+  {
+    "CountryID": 458,
+    "Country and Area": "Malaysia",
+    "Forest Area, 1990": 20618.5,
+    "Forest Area, 2000": 19691.35,
+    "Forest Area, 2010": 18947.65,
+    "Forest Area, 2015": 19464.22,
+    "Forest Area, 2020": 19114.04
+  },
+  {
+    "CountryID": 462,
+    "Country and Area": "Maldives",
+    "Forest Area, 1990": 0.82,
+    "Forest Area, 2000": 0.82,
+    "Forest Area, 2010": 0.82,
+    "Forest Area, 2015": 0.82,
+    "Forest Area, 2020": 0.82
+  },
+  {
+    "CountryID": 466,
+    "Country and Area": "Mali",
+    "Forest Area, 1990": 13296,
+    "Forest Area, 2000": 13296,
+    "Forest Area, 2010": 13296,
+    "Forest Area, 2015": 13296,
+    "Forest Area, 2020": 13296
+  },
+  {
+    "CountryID": 470,
+    "Country and Area": "Malta",
+    "Forest Area, 1990": 0.35,
+    "Forest Area, 2000": 0.35,
+    "Forest Area, 2010": 0.35,
+    "Forest Area, 2015": 0.35,
+    "Forest Area, 2020": 0.46
+  },
+  {
+    "CountryID": 584,
+    "Country and Area": "Marshall Islands",
+    "Forest Area, 1990": 9.4,
+    "Forest Area, 2000": 9.4,
+    "Forest Area, 2010": 9.4,
+    "Forest Area, 2015": 9.4,
+    "Forest Area, 2020": 9.4
+  },
+  {
+    "CountryID": 474,
+    "Country and Area": "Martinique",
+    "Forest Area, 1990": 47.84,
+    "Forest Area, 2000": 48.74,
+    "Forest Area, 2010": 50.29,
+    "Forest Area, 2015": 51.29,
+    "Forest Area, 2020": 52.29
+  },
+  {
+    "CountryID": 478,
+    "Country and Area": "Mauritania",
+    "Forest Area, 1990": 476.04,
+    "Forest Area, 2000": 421.64,
+    "Forest Area, 2010": 367.24,
+    "Forest Area, 2015": 340.04,
+    "Forest Area, 2020": 312.8
+  },
+  {
+    "CountryID": 480,
+    "Country and Area": "Mauritius",
+    "Forest Area, 1990": 41.07,
+    "Forest Area, 2000": 41.93,
+    "Forest Area, 2010": 38.39,
+    "Forest Area, 2015": 38.3,
+    "Forest Area, 2020": 38.77
+  },
+  {
+    "CountryID": 175,
+    "Country and Area": "Mayotte",
+    "Forest Area, 1990": 19.1,
+    "Forest Area, 2000": 15.67,
+    "Forest Area, 2010": 14.41,
+    "Forest Area, 2015": 14.14,
+    "Forest Area, 2020": 13.89
+  },
+  {
+    "CountryID": 484,
+    "Country and Area": "Mexico",
+    "Forest Area, 1990": 70591.65,
+    "Forest Area, 2000": 68381.35,
+    "Forest Area, 2010": 66943.31,
+    "Forest Area, 2015": 66330.91,
+    "Forest Area, 2020": 65692.08
+  },
+  {
+    "CountryID": 583,
+    "Country and Area": "Micronesia (Federated States of)",
+    "Forest Area, 1990": 63.58,
+    "Forest Area, 2000": 63.86,
+    "Forest Area, 2010": 64.13,
+    "Forest Area, 2015": 64.27,
+    "Forest Area, 2020": 64.42
+  },
+  {
+    "CountryID": 492,
+    "Country and Area": "Monaco",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 496,
+    "Country and Area": "Mongolia",
+    "Forest Area, 1990": 14352,
+    "Forest Area, 2000": 14263.9,
+    "Forest Area, 2010": 14183.9,
+    "Forest Area, 2015": 14178.33,
+    "Forest Area, 2020": 14172.78
+  },
+  {
+    "CountryID": 499,
+    "Country and Area": "Montenegro",
+    "Forest Area, 1990": 626,
+    "Forest Area, 2000": 626,
+    "Forest Area, 2010": 827,
+    "Forest Area, 2015": 827,
+    "Forest Area, 2020": 827
+  },
+  {
+    "CountryID": 500,
+    "Country and Area": "Montserrat",
+    "Forest Area, 1990": 3.5,
+    "Forest Area, 2000": 2.5,
+    "Forest Area, 2010": 2.5,
+    "Forest Area, 2015": 2.5,
+    "Forest Area, 2020": 2.5
+  },
+  {
+    "CountryID": 504,
+    "Country and Area": "Morocco",
+    "Forest Area, 1990": 5485.29,
+    "Forest Area, 2000": 5506.54,
+    "Forest Area, 2010": 5674.57,
+    "Forest Area, 2015": 5684.69,
+    "Forest Area, 2020": 5742.49
+  },
+  {
+    "CountryID": 508,
+    "Country and Area": "Mozambique",
+    "Forest Area, 1990": 43378,
+    "Forest Area, 2000": 41188,
+    "Forest Area, 2010": 38972.14,
+    "Forest Area, 2015": 37940,
+    "Forest Area, 2020": 36743.76
+  },
+  {
+    "CountryID": 104,
+    "Country and Area": "Myanmar",
+    "Forest Area, 1990": 39218.48,
+    "Forest Area, 2000": 34868.11,
+    "Forest Area, 2010": 31441,
+    "Forest Area, 2015": 29992.44,
+    "Forest Area, 2020": 28543.89
+  },
+  {
+    "CountryID": 516,
+    "Country and Area": "Namibia",
+    "Forest Area, 1990": 8769.17,
+    "Forest Area, 2000": 8059.08,
+    "Forest Area, 2010": 7348.99,
+    "Forest Area, 2015": 6993.95,
+    "Forest Area, 2020": 6638.9
+  },
+  {
+    "CountryID": 520,
+    "Country and Area": "Nauru",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 524,
+    "Country and Area": "Nepal",
+    "Forest Area, 1990": 5672,
+    "Forest Area, 2000": 5780.76,
+    "Forest Area, 2010": 5962.03,
+    "Forest Area, 2015": 5962.03,
+    "Forest Area, 2020": 5962.03
+  },
+  {
+    "CountryID": 528,
+    "Country and Area": "Netherlands",
+    "Forest Area, 1990": 345.33,
+    "Forest Area, 2000": 359.5,
+    "Forest Area, 2010": 373.48,
+    "Forest Area, 2015": 364.83,
+    "Forest Area, 2020": 369.5
+  },
+  {
+    "CountryID": 540,
+    "Country and Area": "New Caledonia",
+    "Forest Area, 1990": 831.13,
+    "Forest Area, 2000": 837.85,
+    "Forest Area, 2010": 839.02,
+    "Forest Area, 2015": 838.52,
+    "Forest Area, 2020": 838.02
+  },
+  {
+    "CountryID": 554,
+    "Country and Area": "New Zealand",
+    "Forest Area, 1990": 9372.27,
+    "Forest Area, 2000": 9850.44,
+    "Forest Area, 2010": 9848.12,
+    "Forest Area, 2015": 9846.61,
+    "Forest Area, 2020": 9892.59
+  },
+  {
+    "CountryID": 558,
+    "Country and Area": "Nicaragua",
+    "Forest Area, 1990": 6399.32,
+    "Forest Area, 2000": 5399.32,
+    "Forest Area, 2010": 4188.15,
+    "Forest Area, 2015": 3907.53,
+    "Forest Area, 2020": 3407.53
+  },
+  {
+    "CountryID": 562,
+    "Country and Area": "Niger",
+    "Forest Area, 1990": 1945,
+    "Forest Area, 2000": 1328.1,
+    "Forest Area, 2010": 1203.9,
+    "Forest Area, 2015": 1141.8,
+    "Forest Area, 2020": 1079.7
+  },
+  {
+    "CountryID": 566,
+    "Country and Area": "Nigeria",
+    "Forest Area, 1990": 26526.09,
+    "Forest Area, 2000": 24893.04,
+    "Forest Area, 2010": 23259.98,
+    "Forest Area, 2015": 22443.45,
+    "Forest Area, 2020": 21626.95
+  },
+  {
+    "CountryID": 570,
+    "Country and Area": "Niue",
+    "Forest Area, 1990": 18.93,
+    "Forest Area, 2000": 18.83,
+    "Forest Area, 2010": 18.77,
+    "Forest Area, 2015": 18.82,
+    "Forest Area, 2020": 18.87
+  },
+  {
+    "CountryID": 574,
+    "Country and Area": "Norfolk Island",
+    "Forest Area, 1990": 0.49,
+    "Forest Area, 2000": 0.49,
+    "Forest Area, 2010": 0.49,
+    "Forest Area, 2015": 0.49,
+    "Forest Area, 2020": 0.49
+  },
+  {
+    "CountryID": 807,
+    "Country and Area": "North Macedonia",
+    "Forest Area, 1990": 912,
+    "Forest Area, 2000": 957.55,
+    "Forest Area, 2010": 960.43,
+    "Forest Area, 2015": 994.4,
+    "Forest Area, 2020": 1001.49
+  },
+  {
+    "CountryID": 580,
+    "Country and Area": "Northern Mariana Islands",
+    "Forest Area, 1990": 33.61,
+    "Forest Area, 2000": 31.96,
+    "Forest Area, 2010": 30.32,
+    "Forest Area, 2015": 29.49,
+    "Forest Area, 2020": 24.36
+  },
+  {
+    "CountryID": 578,
+    "Country and Area": "Norway",
+    "Forest Area, 1990": 12132,
+    "Forest Area, 2000": 12113,
+    "Forest Area, 2010": 12102,
+    "Forest Area, 2015": 12141,
+    "Forest Area, 2020": 12180
+  },
+  {
+    "CountryID": 512,
+    "Country and Area": "Oman",
+    "Forest Area, 1990": 3,
+    "Forest Area, 2000": 3,
+    "Forest Area, 2010": 3,
+    "Forest Area, 2015": 3,
+    "Forest Area, 2020": 2.5
+  },
+  {
+    "CountryID": 586,
+    "Country and Area": "Pakistan",
+    "Forest Area, 1990": 4986.79,
+    "Forest Area, 2000": 4511.26,
+    "Forest Area, 2010": 4093.73,
+    "Forest Area, 2015": 3932.6,
+    "Forest Area, 2020": 3725.9
+  },
+  {
+    "CountryID": 585,
+    "Country and Area": "Palau",
+    "Forest Area, 1990": 38.15,
+    "Forest Area, 2000": 39.58,
+    "Forest Area, 2010": 40.56,
+    "Forest Area, 2015": 40.99,
+    "Forest Area, 2020": 41.41
+  },
+  {
+    "CountryID": 591,
+    "Country and Area": "Panama",
+    "Forest Area, 1990": 4607.4,
+    "Forest Area, 2000": 4442.14,
+    "Forest Area, 2010": 4327.99,
+    "Forest Area, 2015": 4270.91,
+    "Forest Area, 2020": 4213.84
+  },
+  {
+    "CountryID": 598,
+    "Country and Area": "Papua New Guinea",
+    "Forest Area, 1990": 36399.68,
+    "Forest Area, 2000": 36277.97,
+    "Forest Area, 2010": 36178.89,
+    "Forest Area, 2015": 36024.42,
+    "Forest Area, 2020": 35855.76
+  },
+  {
+    "CountryID": 600,
+    "Country and Area": "Paraguay",
+    "Forest Area, 1990": 25545.86,
+    "Forest Area, 2000": 22991.65,
+    "Forest Area, 2010": 19570.21,
+    "Forest Area, 2015": 17498.94,
+    "Forest Area, 2020": 16102.26
+  },
+  {
+    "CountryID": 604,
+    "Country and Area": "Peru",
+    "Forest Area, 1990": 76448.54,
+    "Forest Area, 2000": 75297.83,
+    "Forest Area, 2010": 74049.8,
+    "Forest Area, 2015": 73194.53,
+    "Forest Area, 2020": 72330.37
+  },
+  {
+    "CountryID": 608,
+    "Country and Area": "Philippines",
+    "Forest Area, 1990": 7778.81,
+    "Forest Area, 2000": 7309.26,
+    "Forest Area, 2010": 6839.72,
+    "Forest Area, 2015": 7014.15,
+    "Forest Area, 2020": 7188.59
+  },
+  {
+    "CountryID": 612,
+    "Country and Area": "Pitcairn",
+    "Forest Area, 1990": 3.5,
+    "Forest Area, 2000": 3.5,
+    "Forest Area, 2010": 3.5,
+    "Forest Area, 2015": 3.5,
+    "Forest Area, 2020": 3.5
+  },
+  {
+    "CountryID": 616,
+    "Country and Area": "Poland",
+    "Forest Area, 1990": 8882,
+    "Forest Area, 2000": 9059,
+    "Forest Area, 2010": 9329,
+    "Forest Area, 2015": 9420,
+    "Forest Area, 2020": 9483
+  },
+  {
+    "CountryID": 620,
+    "Country and Area": "Portugal",
+    "Forest Area, 1990": 3399,
+    "Forest Area, 2000": 3281,
+    "Forest Area, 2010": 3252,
+    "Forest Area, 2015": 3312,
+    "Forest Area, 2020": 3312
+  },
+  {
+    "CountryID": 630,
+    "Country and Area": "Puerto Rico",
+    "Forest Area, 1990": 320.33,
+    "Forest Area, 2000": 429.15,
+    "Forest Area, 2010": 491.45,
+    "Forest Area, 2015": 493.88,
+    "Forest Area, 2020": 496.33
+  },
+  {
+    "CountryID": 634,
+    "Country and Area": "Qatar",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 410,
+    "Country and Area": "Republic of Korea",
+    "Forest Area, 1990": 6551,
+    "Forest Area, 2000": 6476,
+    "Forest Area, 2010": 6387,
+    "Forest Area, 2015": 6337,
+    "Forest Area, 2020": 6287
+  },
+  {
+    "CountryID": 498,
+    "Country and Area": "Republic of Moldova",
+    "Forest Area, 1990": 325.4,
+    "Forest Area, 2000": 344.4,
+    "Forest Area, 2010": 374.5,
+    "Forest Area, 2015": 386.4,
+    "Forest Area, 2020": 386.5
+  },
+  {
+    "CountryID": 638,
+    "Country and Area": "Réunion",
+    "Forest Area, 1990": 87.95,
+    "Forest Area, 2000": 90.97,
+    "Forest Area, 2010": 93.99,
+    "Forest Area, 2015": 96.04,
+    "Forest Area, 2020": 98.44
+  },
+  {
+    "CountryID": 642,
+    "Country and Area": "Romania",
+    "Forest Area, 1990": 6371,
+    "Forest Area, 2000": 6366,
+    "Forest Area, 2010": 6515,
+    "Forest Area, 2015": 6900.96,
+    "Forest Area, 2020": 6929.05
+  },
+  {
+    "CountryID": 643,
+    "Country and Area": "Russian Federation",
+    "Forest Area, 1990": 808949.9,
+    "Forest Area, 2000": 809268.5,
+    "Forest Area, 2010": 815135.6,
+    "Forest Area, 2015": 814930.46,
+    "Forest Area, 2020": 815311.6
+  },
+  {
+    "CountryID": 646,
+    "Country and Area": "Rwanda",
+    "Forest Area, 1990": 317,
+    "Forest Area, 2000": 287,
+    "Forest Area, 2010": 265,
+    "Forest Area, 2015": 270,
+    "Forest Area, 2020": 276
+  },
+  {
+    "CountryID": 652,
+    "Country and Area": "Saint Barthélemy",
+    "Forest Area, 1990": 0.17,
+    "Forest Area, 2000": 0.17,
+    "Forest Area, 2010": 0.17,
+    "Forest Area, 2015": 0.17,
+    "Forest Area, 2020": 0.17
+  },
+  {
+    "CountryID": 654,
+    "Country and Area": "Saint Helena",
+    "Forest Area, 1990": 2,
+    "Forest Area, 2000": 2,
+    "Forest Area, 2010": 2,
+    "Forest Area, 2015": 2,
+    "Forest Area, 2020": 2
+  },
+  {
+    "CountryID": 659,
+    "Country and Area": "Saint Kitts and Nevis",
+    "Forest Area, 1990": 11,
+    "Forest Area, 2000": 11,
+    "Forest Area, 2010": 11,
+    "Forest Area, 2015": 11,
+    "Forest Area, 2020": 11
+  },
+  {
+    "CountryID": 662,
+    "Country and Area": "Saint Lucia",
+    "Forest Area, 1990": 21.27,
+    "Forest Area, 2000": 21.01,
+    "Forest Area, 2010": 20.77,
+    "Forest Area, 2015": 20.77,
+    "Forest Area, 2020": 20.77
+  },
+  {
+    "CountryID": 663,
+    "Country and Area": "Saint Martin (French Part)",
+    "Forest Area, 1990": 1.24,
+    "Forest Area, 2000": 1.24,
+    "Forest Area, 2010": 1.24,
+    "Forest Area, 2015": 1.24,
+    "Forest Area, 2020": 1.24
+  },
+  {
+    "CountryID": 666,
+    "Country and Area": "Saint Pierre and Miquelon",
+    "Forest Area, 1990": 1.9,
+    "Forest Area, 2000": 1.67,
+    "Forest Area, 2010": 1.44,
+    "Forest Area, 2015": 1.33,
+    "Forest Area, 2020": 1.22
+  },
+  {
+    "CountryID": 670,
+    "Country and Area": "Saint Vincent and the Grenadines",
+    "Forest Area, 1990": 27.54,
+    "Forest Area, 2000": 28.54,
+    "Forest Area, 2010": 28.54,
+    "Forest Area, 2015": 28.54,
+    "Forest Area, 2020": 28.54
+  },
+  {
+    "CountryID": 882,
+    "Country and Area": "Samoa",
+    "Forest Area, 1990": 176.13,
+    "Forest Area, 2000": 171.31,
+    "Forest Area, 2010": 166.49,
+    "Forest Area, 2015": 164.07,
+    "Forest Area, 2020": 161.67
+  },
+  {
+    "CountryID": 674,
+    "Country and Area": "San Marino",
+    "Forest Area, 1990": 1,
+    "Forest Area, 2000": 1,
+    "Forest Area, 2010": 1,
+    "Forest Area, 2015": 1,
+    "Forest Area, 2020": 1
+  },
+  {
+    "CountryID": 678,
+    "Country and Area": "Sao Tome and Principe",
+    "Forest Area, 1990": 58.62,
+    "Forest Area, 2000": 58.36,
+    "Forest Area, 2010": 58.1,
+    "Forest Area, 2015": 55,
+    "Forest Area, 2020": 51.9
+  },
+  {
+    "CountryID": 682,
+    "Country and Area": "Saudi Arabia",
+    "Forest Area, 1990": 977,
+    "Forest Area, 2000": 977,
+    "Forest Area, 2010": 977,
+    "Forest Area, 2015": 977,
+    "Forest Area, 2020": 977
+  },
+  {
+    "CountryID": 686,
+    "Country and Area": "Senegal",
+    "Forest Area, 1990": 9303.16,
+    "Forest Area, 2000": 8853.16,
+    "Forest Area, 2010": 8468.16,
+    "Forest Area, 2015": 8268.16,
+    "Forest Area, 2020": 8068.16
+  },
+  {
+    "CountryID": 688,
+    "Country and Area": "Serbia",
+    "Forest Area, 1990": 2313,
+    "Forest Area, 2000": 2460,
+    "Forest Area, 2010": 2713,
+    "Forest Area, 2015": 2719.53,
+    "Forest Area, 2020": 2722.65
+  },
+  {
+    "CountryID": 690,
+    "Country and Area": "Seychelles",
+    "Forest Area, 1990": 33.7,
+    "Forest Area, 2000": 33.7,
+    "Forest Area, 2010": 33.7,
+    "Forest Area, 2015": 33.7,
+    "Forest Area, 2020": 33.7
+  },
+  {
+    "CountryID": 694,
+    "Country and Area": "Sierra Leone",
+    "Forest Area, 1990": 3126.7,
+    "Forest Area, 2000": 2929.43,
+    "Forest Area, 2010": 2732.16,
+    "Forest Area, 2015": 2633.53,
+    "Forest Area, 2020": 2534.88
+  },
+  {
+    "CountryID": 702,
+    "Country and Area": "Singapore",
+    "Forest Area, 1990": 14.83,
+    "Forest Area, 2000": 17.01,
+    "Forest Area, 2010": 17.74,
+    "Forest Area, 2015": 16.47,
+    "Forest Area, 2020": 15.57
+  },
+  {
+    "CountryID": 534,
+    "Country and Area": "Sint Maarten (Dutch part)",
+    "Forest Area, 1990": 0.37,
+    "Forest Area, 2000": 0.37,
+    "Forest Area, 2010": 0.37,
+    "Forest Area, 2015": 0.37,
+    "Forest Area, 2020": 0.37
+  },
+  {
+    "CountryID": 703,
+    "Country and Area": "Slovakia",
+    "Forest Area, 1990": 1902.48,
+    "Forest Area, 2000": 1901.41,
+    "Forest Area, 2010": 1917.91,
+    "Forest Area, 2015": 1921.75,
+    "Forest Area, 2020": 1925.9
+  },
+  {
+    "CountryID": 705,
+    "Country and Area": "Slovenia",
+    "Forest Area, 1990": 1188,
+    "Forest Area, 2000": 1233,
+    "Forest Area, 2010": 1247,
+    "Forest Area, 2015": 1248,
+    "Forest Area, 2020": 1237.83
+  },
+  {
+    "CountryID": 90,
+    "Country and Area": "Solomon Islands",
+    "Forest Area, 1990": 2544.91,
+    "Forest Area, 2000": 2537.6,
+    "Forest Area, 2010": 2530.28,
+    "Forest Area, 2015": 2526.62,
+    "Forest Area, 2020": 2522.97
+  },
+  {
+    "CountryID": 706,
+    "Country and Area": "Somalia",
+    "Forest Area, 1990": 8282.5,
+    "Forest Area, 2000": 7515,
+    "Forest Area, 2010": 6747.5,
+    "Forest Area, 2015": 6363.75,
+    "Forest Area, 2020": 5980
+  },
+  {
+    "CountryID": 710,
+    "Country and Area": "South Africa",
+    "Forest Area, 1990": 18142.09,
+    "Forest Area, 2000": 17778.09,
+    "Forest Area, 2010": 17414.09,
+    "Forest Area, 2015": 17232.09,
+    "Forest Area, 2020": 17050.09
+  },
+  {
+    "CountryID": 728,
+    "Country and Area": "South Sudan",
+    "Forest Area, 1990": 7157,
+    "Forest Area, 2000": 7157,
+    "Forest Area, 2010": 7157,
+    "Forest Area, 2015": 7157,
+    "Forest Area, 2020": 7157
+  },
+  {
+    "CountryID": 724,
+    "Country and Area": "Spain",
+    "Forest Area, 1990": 13904.66,
+    "Forest Area, 2000": 17093.93,
+    "Forest Area, 2010": 18545.34,
+    "Forest Area, 2015": 18551.18,
+    "Forest Area, 2020": 18572.17
+  },
+  {
+    "CountryID": 144,
+    "Country and Area": "Sri Lanka",
+    "Forest Area, 1990": 2350.33,
+    "Forest Area, 2000": 2166.42,
+    "Forest Area, 2010": 2103.62,
+    "Forest Area, 2015": 2128.82,
+    "Forest Area, 2020": 2113.02
+  },
+  {
+    "CountryID": 275,
+    "Country and Area": "State of Palestine",
+    "Forest Area, 1990": 9.08,
+    "Forest Area, 2000": 9.08,
+    "Forest Area, 2010": 9.95,
+    "Forest Area, 2015": 10.14,
+    "Forest Area, 2020": 10.14
+  },
+  {
+    "CountryID": 729,
+    "Country and Area": "Sudan",
+    "Forest Area, 1990": 23570.31,
+    "Forest Area, 2000": 21826.16,
+    "Forest Area, 2010": 20081.17,
+    "Forest Area, 2015": 19209.93,
+    "Forest Area, 2020": 18359.55
+  },
+  {
+    "CountryID": 740,
+    "Country and Area": "Suriname",
+    "Forest Area, 1990": 15377.63,
+    "Forest Area, 2000": 15340.87,
+    "Forest Area, 2010": 15299.86,
+    "Forest Area, 2015": 15251.67,
+    "Forest Area, 2020": 15196.29
+  },
+  {
+    "CountryID": 744,
+    "Country and Area": "Svalbard and Jan Mayen Islands",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 752,
+    "Country and Area": "Sweden",
+    "Forest Area, 1990": 28063,
+    "Forest Area, 2000": 28163,
+    "Forest Area, 2010": 28073,
+    "Forest Area, 2015": 27980,
+    "Forest Area, 2020": 27980
+  },
+  {
+    "CountryID": 756,
+    "Country and Area": "Switzerland",
+    "Forest Area, 1990": 1153.5,
+    "Forest Area, 2000": 1196.18,
+    "Forest Area, 2010": 1234.72,
+    "Forest Area, 2015": 1251.91,
+    "Forest Area, 2020": 1269.11
+  },
+  {
+    "CountryID": 760,
+    "Country and Area": "Syrian Arab Republic",
+    "Forest Area, 1990": 372.08,
+    "Forest Area, 2000": 432.08,
+    "Forest Area, 2010": 492.08,
+    "Forest Area, 2015": 522.08,
+    "Forest Area, 2020": 522.08
+  },
+  {
+    "CountryID": 762,
+    "Country and Area": "Tajikistan",
+    "Forest Area, 1990": 408,
+    "Forest Area, 2000": 410,
+    "Forest Area, 2010": 410,
+    "Forest Area, 2015": 421.8,
+    "Forest Area, 2020": 423.8
+  },
+  {
+    "CountryID": 764,
+    "Country and Area": "Thailand",
+    "Forest Area, 1990": 19361,
+    "Forest Area, 2000": 18998,
+    "Forest Area, 2010": 20073,
+    "Forest Area, 2015": 20061,
+    "Forest Area, 2020": 19873
+  },
+  {
+    "CountryID": 626,
+    "Country and Area": "Timor-Leste",
+    "Forest Area, 1990": 963.1,
+    "Forest Area, 2000": 949.1,
+    "Forest Area, 2010": 935.1,
+    "Forest Area, 2015": 928.1,
+    "Forest Area, 2020": 921.1
+  },
+  {
+    "CountryID": 768,
+    "Country and Area": "Togo",
+    "Forest Area, 1990": 1361.66,
+    "Forest Area, 2000": 1268.46,
+    "Forest Area, 2010": 1238.87,
+    "Forest Area, 2015": 1224.07,
+    "Forest Area, 2020": 1209.27
+  },
+  {
+    "CountryID": 772,
+    "Country and Area": "Tokelau",
+    "Forest Area, 1990": 0,
+    "Forest Area, 2000": 0,
+    "Forest Area, 2010": 0,
+    "Forest Area, 2015": 0,
+    "Forest Area, 2020": 0
+  },
+  {
+    "CountryID": 776,
+    "Country and Area": "Tonga",
+    "Forest Area, 1990": 8.95,
+    "Forest Area, 2000": 8.95,
+    "Forest Area, 2010": 8.95,
+    "Forest Area, 2015": 8.95,
+    "Forest Area, 2020": 8.95
+  },
+  {
+    "CountryID": 780,
+    "Country and Area": "Trinidad and Tobago",
+    "Forest Area, 1990": 242.06,
+    "Forest Area, 2000": 236.65,
+    "Forest Area, 2010": 232.41,
+    "Forest Area, 2015": 230.29,
+    "Forest Area, 2020": 228.19
+  },
+  {
+    "CountryID": 788,
+    "Country and Area": "Tunisia",
+    "Forest Area, 1990": 643.98,
+    "Forest Area, 2000": 667.85,
+    "Forest Area, 2010": 687.43,
+    "Forest Area, 2015": 695.08,
+    "Forest Area, 2020": 702.73
+  },
+  {
+    "CountryID": 792,
+    "Country and Area": "Turkey",
+    "Forest Area, 1990": 19783.48,
+    "Forest Area, 2000": 20148.35,
+    "Forest Area, 2010": 21083.08,
+    "Forest Area, 2015": 21630.3,
+    "Forest Area, 2020": 22220.36
+  },
+  {
+    "CountryID": 795,
+    "Country and Area": "Turkmenistan",
+    "Forest Area, 1990": 4127,
+    "Forest Area, 2000": 4127,
+    "Forest Area, 2010": 4127,
+    "Forest Area, 2015": 4127,
+    "Forest Area, 2020": 4127
+  },
+  {
+    "CountryID": 796,
+    "Country and Area": "Turks and Caicos Islands",
+    "Forest Area, 1990": 10.52,
+    "Forest Area, 2000": 10.52,
+    "Forest Area, 2010": 10.52,
+    "Forest Area, 2015": 10.52,
+    "Forest Area, 2020": 10.52
+  },
+  {
+    "CountryID": 798,
+    "Country and Area": "Tuvalu",
+    "Forest Area, 1990": 1,
+    "Forest Area, 2000": 1,
+    "Forest Area, 2010": 1,
+    "Forest Area, 2015": 1,
+    "Forest Area, 2020": 1
+  },
+  {
+    "CountryID": 800,
+    "Country and Area": "Uganda",
+    "Forest Area, 1990": 3575.47,
+    "Forest Area, 2000": 3162.95,
+    "Forest Area, 2010": 2750.42,
+    "Forest Area, 2015": 2544.16,
+    "Forest Area, 2020": 2337.9
+  },
+  {
+    "CountryID": 804,
+    "Country and Area": "Ukraine",
+    "Forest Area, 1990": 9274,
+    "Forest Area, 2000": 9510,
+    "Forest Area, 2010": 9548,
+    "Forest Area, 2015": 9657,
+    "Forest Area, 2020": 9690
+  },
+  {
+    "CountryID": 784,
+    "Country and Area": "United Arab Emirates",
+    "Forest Area, 1990": 245,
+    "Forest Area, 2000": 309.43,
+    "Forest Area, 2010": 317.3,
+    "Forest Area, 2015": 317.3,
+    "Forest Area, 2020": 317.3
+  },
+  {
+    "CountryID": 826,
+    "Country and Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Forest Area, 1990": 2778,
+    "Forest Area, 2000": 2954,
+    "Forest Area, 2010": 3059,
+    "Forest Area, 2015": 3155,
+    "Forest Area, 2020": 3190
+  },
+  {
+    "CountryID": 834,
+    "Country and Area": "United Republic of Tanzania",
+    "Forest Area, 1990": 57390.01,
+    "Forest Area, 2000": 53670.01,
+    "Forest Area, 2010": 49950.01,
+    "Forest Area, 2015": 48090,
+    "Forest Area, 2020": 45745
+  },
+  {
+    "CountryID": 840,
+    "Country and Area": "United States of America",
+    "Forest Area, 1990": 302450,
+    "Forest Area, 2000": 303536,
+    "Forest Area, 2010": 308720,
+    "Forest Area, 2015": 310095,
+    "Forest Area, 2020": 309795
+  },
+  {
+    "CountryID": 850,
+    "Country and Area": "United States Virgin Islands",
+    "Forest Area, 1990": 24.54,
+    "Forest Area, 2000": 20.47,
+    "Forest Area, 2010": 18.43,
+    "Forest Area, 2015": 19.16,
+    "Forest Area, 2020": 19.91
+  },
+  {
+    "CountryID": 858,
+    "Country and Area": "Uruguay",
+    "Forest Area, 1990": 798,
+    "Forest Area, 2000": 1369,
+    "Forest Area, 2010": 1731.3,
+    "Forest Area, 2015": 1920,
+    "Forest Area, 2020": 2031
+  },
+  {
+    "CountryID": 860,
+    "Country and Area": "Uzbekistan",
+    "Forest Area, 1990": 2549.37,
+    "Forest Area, 2000": 2961.46,
+    "Forest Area, 2010": 3349.6,
+    "Forest Area, 2015": 3549.4,
+    "Forest Area, 2020": 3689.66
+  },
+  {
+    "CountryID": 548,
+    "Country and Area": "Vanuatu",
+    "Forest Area, 1990": 442.3,
+    "Forest Area, 2000": 442.3,
+    "Forest Area, 2010": 442.3,
+    "Forest Area, 2015": 442.3,
+    "Forest Area, 2020": 442.3
+  },
+  {
+    "CountryID": 862,
+    "Country and Area": "Venezuela (Bolivarian Republic of)",
+    "Forest Area, 1990": 52026,
+    "Forest Area, 2000": 49151,
+    "Forest Area, 2010": 47505,
+    "Forest Area, 2015": 46683,
+    "Forest Area, 2020": 46230.9
+  },
+  {
+    "CountryID": 704,
+    "Country and Area": "Viet Nam",
+    "Forest Area, 1990": 9375.96,
+    "Forest Area, 2000": 11784.1,
+    "Forest Area, 2010": 13388.06,
+    "Forest Area, 2015": 14061.86,
+    "Forest Area, 2020": 14643.09
+  },
+  {
+    "CountryID": 876,
+    "Country and Area": "Wallis and Futuna Islands",
+    "Forest Area, 1990": 5.8,
+    "Forest Area, 2000": 5.81,
+    "Forest Area, 2010": 5.82,
+    "Forest Area, 2015": 5.83,
+    "Forest Area, 2020": 5.83
+  },
+  {
+    "CountryID": 732,
+    "Country and Area": "Western Sahara",
+    "Forest Area, 1990": 665.1,
+    "Forest Area, 2000": 669.31,
+    "Forest Area, 2010": 665.11,
+    "Forest Area, 2015": 664.7,
+    "Forest Area, 2020": 665.07
+  },
+  {
+    "CountryID": 887,
+    "Country and Area": "Yemen",
+    "Forest Area, 1990": 549,
+    "Forest Area, 2000": 549,
+    "Forest Area, 2010": 549,
+    "Forest Area, 2015": 549,
+    "Forest Area, 2020": 549
+  },
+  {
+    "CountryID": 894,
+    "Country and Area": "Zambia",
+    "Forest Area, 1990": 47412,
+    "Forest Area, 2000": 47054,
+    "Forest Area, 2010": 46696,
+    "Forest Area, 2015": 45755.1,
+    "Forest Area, 2020": 44814.03
+  },
+  {
+    "CountryID": 716,
+    "Country and Area": "Zimbabwe",
+    "Forest Area, 1990": 18826.68,
+    "Forest Area, 2000": 18365.98,
+    "Forest Area, 2010": 17905.28,
+    "Forest Area, 2015": 17674.93,
+    "Forest Area, 2020": 17444.58
+  }
+]
+
